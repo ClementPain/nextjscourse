@@ -47,7 +47,7 @@ function ContactPage() {
     notificationData = {
       status: 'success',
       title: 'message sent',
-      message: "your message was sent !"
+      message: "your message was sent !!!!"
     }
   }
 
